@@ -1,0 +1,118 @@
+# Mukisa Samuel - CV/Resume
+
+## Personal Information
+**Name:** Mukisa Samuel  
+**Title:** Software Engineer & Ethical Hacker  
+**Location:** Kampala, Uganda  
+**Email:** mukisa.samuel@email.com  
+**Phone:** +256 700 123 456  
+**LinkedIn:** linkedin.com/in/mukisa-samuel  
+**GitHub:** github.com/mukisa-samuel  
+
+## Professional Summary
+Passionate software engineer and ethical hacker with 5+ years of experience in building secure, scalable applications and conducting security assessments. Proven track record in cybersecurity consulting, penetration testing, and full-stack web development. Committed to creating robust solutions that withstand modern security challenges.
+
+## Technical Skills
+### Programming Languages
+- JavaScript/TypeScript (5 years)
+- Python (4 years)
+- Java (3 years)
+- C/C++ (3 years)
+- Go (2 years)
+- Rust (1 year)
+
+### Web Technologies
+- React/Next.js (4 years)
+- Node.js/Express (4 years)
+- HTML/CSS (6 years)
+- Vue.js (2 years)
+- Angular (2 years)
+- GraphQL (3 years)
+
+### Cybersecurity
+- Penetration Testing (4 years)
+- Vulnerability Assessment (5 years)
+- Network Security (3 years)
+- Web Application Security (4 years)
+- Incident Response (3 years)
+- Security Auditing (3 years)
+
+### Database & Cloud
+- PostgreSQL (4 years)
+- MongoDB (3 years)
+- Redis (3 years)
+- AWS (3 years)
+- Docker/Kubernetes (2 years)
+- Firebase (2 years)
+
+## Certifications
+- **Certified Ethical Hacker (CEH)** - EC-Council (2023)
+- **AWS Certified Solutions Architect** - Amazon Web Services (2023)
+- **CISSP** - (ISC)² (2022)
+- **CompTIA Security+** - CompTIA (2022)
+
+## Professional Experience
+
+### Senior Security Consultant | CyberSec Solutions (2022 - Present)
+- Led security assessments for 50+ organizations
+- Discovered and responsibly disclosed 200+ vulnerabilities
+- Developed custom security tools and frameworks
+- Conducted security training for development teams
+- Achieved 99.9% client satisfaction rate
+
+### Full Stack Developer | TechCorp Ltd (2020 - 2022)
+- Built and maintained 15+ web applications
+- Implemented security-first development practices
+- Reduced application vulnerabilities by 80%
+- Mentored junior developers on secure coding practices
+- Led migration of legacy systems to modern architectures
+
+### Junior Software Engineer | StartupHub (2019 - 2020)
+- Developed features for high-traffic applications
+- Implemented automated testing suites
+- Contributed to open-source security projects
+- Participated in code reviews and security assessments
+
+## Key Projects
+
+### SecureAuth API (2023)
+- Comprehensive authentication and authorization API
+- Features multi-factor authentication and RBAC
+- Built with Node.js, Express, MongoDB, JWT, Redis
+- Handles 10,000+ daily active users
+- Zero security incidents to date
+
+### VulnScanner Pro (2024 - Ongoing)
+- Automated vulnerability scanning tool
+- AI-powered detection with custom rule engine
+- Built with Python, Django, PostgreSQL
+- Used by 5+ enterprise clients
+
+### CyberEd Platform (2023 - Ongoing)
+- Educational platform for cybersecurity training
+- Interactive labs and certification programs
+- Built with React, Node.js, PostgreSQL
+- 1,000+ active learners
+
+## Education
+**Bachelor of Science in Computer Science**  
+Makerere University, Kampala (2015 - 2019)  
+- First Class Honours
+- Thesis: "Machine Learning Approaches to Intrusion Detection"
+
+## Achievements
+- **Bug Bounty Hunter:** Discovered 50+ security vulnerabilities
+- **Open Source Contributor:** 20+ projects on GitHub
+- **Speaker:** Presented at 10+ cybersecurity conferences
+- **Community Leader:** Founded Uganda Cybersecurity Meetup (500+ members)
+
+## Languages
+- English (Native)
+- Luganda (Native)
+- Swahili (Conversational)
+
+## References
+Available upon request.
+
+---
+**Last Updated:** October 2025
