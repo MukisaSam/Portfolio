@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap location (update the URL to your actual domain)
+Sitemap: https://mukisasamuel.com/sitemap.xml
