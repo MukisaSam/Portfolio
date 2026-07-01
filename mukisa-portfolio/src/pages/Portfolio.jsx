@@ -8,7 +8,6 @@ import {
   Cloud, 
   Smartphone, 
   Globe, 
-  Award,
   BookOpen,
   Users,
   Zap
@@ -118,9 +117,6 @@ const Portfolio = () => {
         { name: "GRC / Purple Team Concepts", experience: "Beginner-Intermediate", usage: "Governance, risk, compliance, defensive and offensive security alignment" }
       ]
     }
-  ];
-
-  const certifications = [
   ];
 
   const keyProjects = [
@@ -274,8 +270,6 @@ const Portfolio = () => {
     "My technical experience includes Python, JavaScript, PHP/Laravel, React, FastAPI, PostgreSQL, MySQL, Excel automation, pandas, openpyxl, and AI/ML tools. I also have a growing interest in cybersecurity, secure system design, and cloud deployment."
   ];
 
-  const certificationNote = "At the moment, only include certifications you can prove with a certificate, badge, transcript, or official ID.";
-
   const getCategoryColor = (category) => {
     const colors = {
       "Real Estate": 'bg-cyan-100 text-cyan-800',
@@ -409,21 +403,6 @@ const Portfolio = () => {
               </Card>
             ))}
           </div>
-        </section>
-
-        {/* Certifications Section */}
-        <section className="mb-16">
-          <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Certifications</h2>
-          <Card className="shadow-lg">
-            <CardContent className="p-8 space-y-4">
-              <p className="text-gray-700 leading-relaxed">
-                {certificationNote}
-              </p>
-              <p className="text-sm text-gray-500">
-                No certifications are listed here unless they are verified with a certificate, badge, transcript, or official ID.
-              </p>
-            </CardContent>
-          </Card>
         </section>
 
         {/* Professional Strengths */}
