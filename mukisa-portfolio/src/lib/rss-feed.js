@@ -5,7 +5,7 @@ export const generateRSSFeed = (posts) => {
   const siteUrl = 'https://mukisa.dev';
   const feedTitle = 'Mukisa Samuel - Software Engineering & Cybersecurity Blog';
   const feedDescription = 'Latest insights on software engineering, cybersecurity, ethical hacking, and technology trends from Mukisa Samuel.';
-  const authorEmail = 'hello@mukisa.dev';
+  const authorEmail = 'mukisasamuel2020@gmail.com';
   const authorName = 'Mukisa Samuel';
   
   const rssItems = posts.map(post => {

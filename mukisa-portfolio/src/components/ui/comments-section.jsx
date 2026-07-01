@@ -57,7 +57,7 @@ const CommentsSection = ({ postId, postTitle }) => {
             likes: comment.attributes.likes || 0,
             replies: [], // TODO: Handle nested comments in Strapi
             parentId: comment.attributes.parent_comment?.data?.id || null,
-            isAuthor: comment.attributes.author_email === 'hello@mukisa.dev',
+            isAuthor: comment.attributes.author_email === 'mukisasamuel2020@gmail.com',
             approved: comment.attributes.approved
           }));
           
@@ -134,7 +134,7 @@ const CommentsSection = ({ postId, postTitle }) => {
             likes: 0,
             replies: [],
             parentId: commentData.parentId || null,
-            isAuthor: commentData.email === 'hello@mukisa.dev',
+            isAuthor: commentData.email === 'mukisasamuel2020@gmail.com',
             approved: false
           };
           
@@ -153,7 +153,7 @@ const CommentsSection = ({ postId, postTitle }) => {
             likes: 0,
             replies: [],
             parentId: commentData.parentId || null,
-            isAuthor: commentData.email === 'hello@mukisa.dev',
+            isAuthor: commentData.email === 'mukisasamuel2020@gmail.com',
             approved: true // Auto-approve for localStorage
           };
           

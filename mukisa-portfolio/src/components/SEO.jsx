@@ -10,6 +10,11 @@ const SEO = ({
   type = "website"
 }) => {
   const siteTitle = title.includes("Mukisa Samuel") ? title : `${title} | Mukisa Samuel`;
+  const socialLinks = [
+    "https://github.com/MukisaSam",
+    "https://www.linkedin.com/in/mukisa-samuel",
+    "https://x.com/samuelmuki"
+  ];
 
   return (
     <Helmet>
@@ -55,11 +60,7 @@ const SEO = ({
           "description": description,
           "url": url,
           "image": image,
-          "sameAs": [
-            "https://github.com/mukisa",
-            "https://linkedin.com/in/mukisa-samuel",
-            "https://twitter.com/mukisa_samuel"
-          ],
+          "sameAs": socialLinks,
           "knowsAbout": [
             "Software Engineering",
             "Ethical Hacking",

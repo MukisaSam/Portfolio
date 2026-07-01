@@ -37,19 +37,19 @@ const Footer = () => {
     {
       name: 'GitHub',
       icon: <Github className="h-5 w-5" />,
-      url: 'https://github.com/mukisa-samuel',
+      url: 'https://github.com/MukisaSam',
       color: 'hover:text-gray-900'
     },
     {
       name: 'LinkedIn',
       icon: <Linkedin className="h-5 w-5" />,
-      url: 'https://linkedin.com/in/mukisa-samuel',
+      url: 'https://www.linkedin.com/in/mukisa-samuel',
       color: 'hover:text-blue-600'
     },
     {
-      name: 'Twitter',
+      name: 'X',
       icon: <Twitter className="h-5 w-5" />,
-      url: 'https://twitter.com/mukisa_samuel',
+      url: 'https://x.com/samuelmuki',
       color: 'hover:text-blue-400'
     }
   ];
@@ -57,13 +57,13 @@ const Footer = () => {
   const contactInfo = [
     {
       icon: <Mail className="h-4 w-4" />,
-      text: 'mukisa.samuel@email.com',
-      link: 'mailto:mukisa.samuel@email.com'
+      text: 'mukisasamuel2020@gmail.com',
+      link: 'mailto:mukisasamuel2020@gmail.com'
     },
     {
       icon: <Phone className="h-4 w-4" />,
-      text: '+256 700 123 456',
-      link: 'tel:+256700123456'
+      text: '+256 757 429 284',
+      link: 'tel:+256757429284'
     },
     {
       icon: <MapPin className="h-4 w-4" />,

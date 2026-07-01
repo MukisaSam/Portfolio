@@ -116,14 +116,14 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6" />,
       title: "Email",
-      value: "mukisa.samuel@email.com",
-      link: "mailto:mukisa.samuel@email.com"
+      value: "mukisasamuel2020@gmail.com",
+      link: "mailto:mukisasamuel2020@gmail.com"
     },
     {
       icon: <Phone className="h-6 w-6" />,
       title: "Phone",
-      value: "+256 700 123 456",
-      link: "tel:+256700123456"
+      value: "+256 757 429 284",
+      link: "tel:+256757429284"
     },
     {
       icon: <MapPin className="h-6 w-6" />,
@@ -137,19 +137,19 @@ const Contact = () => {
     {
       name: "GitHub",
       icon: <Github className="h-6 w-6" />,
-      url: "https://github.com/mukisa",
+      url: "https://github.com/MukisaSam",
       color: "hover:text-gray-900"
     },
     {
       name: "LinkedIn",
       icon: <Linkedin className="h-6 w-6" />,
-      url: "https://linkedin.com/in/mukisa-samuel",
+      url: "https://www.linkedin.com/in/mukisa-samuel",
       color: "hover:text-blue-600"
     },
     {
-      name: "Twitter",
+      name: "X",
       icon: <Twitter className="h-6 w-6" />,
-      url: "https://twitter.com/mukisa_samuel",
+      url: "https://x.com/samuelmuki",
       color: "hover:text-blue-400"
     }
   ];
